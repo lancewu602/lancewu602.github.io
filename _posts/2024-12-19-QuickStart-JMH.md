@@ -1,3 +1,13 @@
+---
+title: QuickStart-JMH
+date: 2024-12-19 08:00:00 +0800
+categories: [Animal, Insect]
+tags: [bee]     # TAG names should always be lowercase
+description: Short summary of the post.
+toc: true
+comments: true
+---
+
 # QuickStart-JMH
 
 JMH（Java Microbenchmark Harness）是用于编写Java微基准测试的一套工具API。以下是对它的概述：
